@@ -1,0 +1,26 @@
+.friend-list {
+    width: 30%;
+    padding: 10px;
+  }
+  
+  .friend-list input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .friend-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .friend-list li {
+    padding: 8px;
+    cursor: pointer;
+  }
+  
+  .friend-list li:hover {
+    background-color: #f0f0f0;
+  }
